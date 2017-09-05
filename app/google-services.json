@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "244715211900",
+    "project_id": "gpacalculator-1470703320727"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244715211900:android:9b7fdeec873beced",
+        "android_client_info": {
+          "package_name": "com.example.divya.gpacalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244715211900-v8r9jb3r0jhmmp7cokseckvoearu840q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.divya.gpacalculator",
+            "certificate_hash": "780F7148F5388DE38122AFFD06E112E33F9F1FEA"
+          }
+        },
+        {
+          "client_id": "244715211900-nk95k4tpld63dv4iq27p2v4753bjubf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdKQhLaGK_4MIbDg7NwVTO1n51Ns6vjo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

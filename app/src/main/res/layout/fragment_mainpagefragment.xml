@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.divya.gpacalculator.mainpagefragment">
+
+    <!-- TODO: Update blank fragment layout -->
+  <!--  <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=" Welcome Page"
+        android:layout_gravity="center_horizontal|top"
+        android:gravity="center_horizontal"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="84dp"
+        android:id="@+id/textView3" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Calculate Your GPA/CGPA Here!!!"
+    android:layout_gravity="center_horizontal|top"
+    android:gravity="center_horizontal"
+        android:layout_marginTop="101dp"
+        android:layout_alignTop="@+id/textView3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+        -->
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/icon_gpa_calculator"
+        android:gravity="center"/>
+
+</RelativeLayout>

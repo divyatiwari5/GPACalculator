@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Home"
+            android:title="Home"
+            />
+
+    </group>
+
+    <item
+        android:id="@+id/gpa1"
+        android:title="2014-18 Batch"
+        />
+
+    <item
+        android:id="@+id/gpa2"
+        android:title="2015-19 Batch"
+        />
+
+
+    <item
+        android:title="CGPA">
+        <menu>
+            <item
+                android:id="@+id/cgpa"
+                android:title="Calculate CGPA"/>
+        </menu>
+    </item>
+
+</menu>
